@@ -1,0 +1,72 @@
+.footer{
+    background-color: #f4f5fc;
+    position: relative;
+}
+.footer-section{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+
+}
+.footer-heading{
+    font-size: 16px;
+    color: #5267ff;
+    padding: 20px 0;
+}
+.footer-description{
+    color: #929292;
+    font-size: 14px;
+    margin: 20px 0;
+    line-height: 1.5;
+    
+}
+.mail-input{
+    width: 267px;
+    height: 35px;
+    border-width: 0;
+    background: #dbdffc;
+    border-radius: 5px;
+    padding-left: 10px;
+    
+}
+.mail-btn{
+    background-color: #00cf9c;
+    border-width: 0;
+    color: #ffffffff;
+    width: 45px;
+    font-size: 14px;
+    cursor: pointer;
+    height: 35px;
+    font-size: 14px;
+    border-radius: 5px;
+    margin: 0 5px;
+    
+}
+
+.inst-icon{
+    font-size: 20px;
+    
+    margin: 16px;
+}
+.footer-list{
+    list-style-type: none;
+    padding: 0;
+}
+.footer-list-items{
+    padding: 6px;
+    color: #929292;
+    font-size: 14px;
+    cursor: pointer;
+}
+.border-line{
+    background-color: #00cf9c;
+    height: 4px;
+    border: 1px solid #00cf9c;
+}
+.copyright
+{
+    font-size: 12px;
+    margin: 0 106px;
+    padding-bottom: 30px;
+    color: #727272;
+}
