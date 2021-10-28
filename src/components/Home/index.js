@@ -307,11 +307,11 @@ class Home extends Component {
                 {this.carouselSection()}
                 <div className="carousel-dots">
   
-  <span className="dot"></span>
-  <span className="dot active"></span>
-  <span className="dot"></span>
-  <span className="dot"></span>
-</div>
+                    <span className="dot"></span>
+                    <span className="dot active"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    </div>
                 {this.strip()}
                 <h1 className="counselling-section-heading">Pricing to suit all <br/> sizes of budget</h1>
                 <p className="counselling-section-description">
