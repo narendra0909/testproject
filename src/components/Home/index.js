@@ -13,7 +13,7 @@ class Home extends Component {
         <div>
             <div className="banner-container">
             <h1 className="banner-heading">
-                Prepare for Narendra <br/> India's Leading  educators
+                Prepare for <br/> India's Leading  educators
             </h1>
             <p className="banner-content">Struggling to find the right mentor ? | Not sure how to make  way to your  desired university ? | Want to gain exposure and <br/>
             make informed choice ? | Desire to connect with exposure and network across the Globe ? | Guidance from the young mentors</p>
